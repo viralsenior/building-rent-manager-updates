@@ -5,6 +5,9 @@
   "changelog": [
     "version 2",
     "Improved Dashboard",
+    "Bug fixes",
+     "Animated update progress",
+    "Improved backup system",
     "Bug fixes"
   ]
 }
