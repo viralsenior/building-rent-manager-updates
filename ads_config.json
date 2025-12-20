@@ -1,0 +1,16 @@
+{
+  "ads_enabled": true,
+
+  "provider": "admob",
+
+  "banner_id": "ca-app-pub-XXXXXXXXXXXXXXXX/banner",
+  "interstitial_id": "ca-app-pub-XXXXXXXXXXXXXXXX/interstitial",
+  "app_open_id": "ca-app-pub-XXXXXXXXXXXXXXXX/appopen",
+
+  "show_banner": true,
+  "show_interstitial": true,
+
+  "interstitial_interval": 3,
+
+  "updated_at": "2025-01-20"
+}
