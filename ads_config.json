@@ -3,9 +3,9 @@
 
   "provider": "admob",
 
-  "banner_id": "ca-app-pub-XXXXXXXXXXXXXXXX/banner",
-  "interstitial_id": "ca-app-pub-XXXXXXXXXXXXXXXX/interstitial",
-  "app_open_id": "ca-app-pub-XXXXXXXXXXXXXXXX/appopen",
+  "banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "app_open_id": "ca-app-pub-3940256099942544/3419835294",
 
   "show_banner": true,
   "show_interstitial": true,
