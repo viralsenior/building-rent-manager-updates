@@ -1,8 +1,8 @@
 {
-  "version_code": 2,
-  "version_name": "1.0.1",
+  "version_code": 1,
+  "version_name": "1.0.0",
   "apk_url": "https://github.com/viralsenior/building-rent-manager-updates/releases/download/walletTracker/wallet.tracker.1.0.1.apk",
-  "apkSize": 28432000,
+  "apkSize": 18432000,
   "forceUpdate": true,
   "changelog": [
      "testing 1",
